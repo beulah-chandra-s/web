@@ -1,33 +1,33 @@
-# My Web Development Portfolio
+Web Development Portfolio
+Introduction
+Welcome to my portfolio! This README highlights my experience in web development, design, and the projects I've worked on. Unfortunately, due to confidentiality and VPN restrictions, I cannot provide live links, but I’ve included detailed descriptions and screenshots where possible.
 
-## Introduction
-Welcome to my portfolio! Here you’ll find a collection of my work showcasing my skills in web design and development.
+Projects
+School Student Portal
 
-## Table of Contents
-- [Project 1: School Student Portal](#school-student-portal)
-- [Project 2: E-Commerce Website](#e-commerce-website)
-- [Skills and Technologies](#skills-and-technologies)
-- [Contact](#contact)
+Description: Developed a comprehensive school student portal featuring student information management, attendance tracking, and communication tools. Focused on creating a user-friendly interface and ensuring data security.
+Technologies Used: React, Node.js, CSS
+Role: Front-end Developer and UI/UX Designer. Collaborated with stakeholders to align the portal with the institution’s branding and usability standards.
+Challenges: Addressed mobile responsiveness and integrated secure login features to protect sensitive student data.
+E-Commerce Website
 
-## Project 1: School Student Portal
-![Screenshot](URL-to-screenshot)
-- **Description**: Developed a student portal with features for attendance, grades, and communication.
-- **Technologies Used**: React, Node.js, CSS.
-- **Role**: Front-end development, UI/UX design.
-- **Challenges**: Ensured mobile responsiveness and data security.
+Description: Designed and implemented a fully functional e-commerce platform with product browsing, shopping cart, and secure payment gateway integration. Enhanced user experience with a responsive design and fast load times.
+Technologies Used: Angular, Bootstrap, JavaScript
+Role: Full-stack Developer. Implemented complex features including advanced search functionality and personalized recommendations.
+Challenges: Optimized for high traffic and ensured compliance with security best practices for payment processing.
+Skills and Technologies
+HTML/CSS: Proficient in HTML5 and CSS3 with experience in using frameworks like Bootstrap and Tailwind CSS to create responsive and accessible designs.
+SASS/LESS: Utilized SASS for writing modular and maintainable CSS.
+JavaScript: Extensive experience with JavaScript ES6, ReactJS, and Angular for dynamic and interactive web applications.
+Git: Experienced with version control using Git for collaboration and code management.
+Squiz CMS: Developed and managed web content using Squiz CMS, enhancing website functionality and user experience.
+Funnelback Search: Configured and optimized search functionalities to improve site search relevance and performance.
+Design Software Proficiency
+Adobe XD: Designed interactive prototypes and wireframes to visualize and iterate on user interface designs.
+Adobe Illustrator: Created vector graphics for web assets, ensuring high-quality visual elements.
+Adobe Photoshop: Edited and optimized images for web use, maintaining visual consistency and branding.
+Brand Guidelines and Visual Identity
+In my previous roles, I consistently adhered to brand guidelines to ensure a cohesive visual identity across all digital platforms. For instance, in the School Student Portal project, I worked closely with the branding team to integrate their feedback into the design, aligning with the school's established visual identity. This involved ensuring that all design elements, from promo tags to skin variables, were consistent with the brand’s aesthetics.
 
-## Project 2: E-Commerce Website
-![Screenshot](URL-to-screenshot)
-- **Description**: Designed and built an e-commerce platform with shopping cart and payment integration.
-- **Technologies Used**: Angular, Bootstrap, JavaScript.
-- **Role**: Full-stack development, API integration.
-- **Challenges**: Implemented secure payment gateway and optimized for high traffic.
-
-## Skills and Technologies
-- **HTML/CSS**: Proficient in creating responsive layouts using Bootstrap and Tailwind.
-- **JavaScript**: Experienced with ES6, React, and Angular.
-- **Design Tools**: Adobe XD, Photoshop for UI/UX design.
-
-## Contact
-For inquiries or collaboration, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
+Contact
+For more details or if you have any questions, please contact me at your-email@example.com.
