@@ -1,33 +1,42 @@
-Web Development Portfolio
-Introduction
-Welcome to my portfolio! This README highlights my experience in web development, design, and the projects I've worked on. Unfortunately, due to confidentiality and VPN restrictions, I cannot provide live links, but I’ve included detailed descriptions and screenshots where possible.
+# Beulah Chandra - Portfolio
 
-Projects
-School Student Portal
+I am a certified Software Engineer with 5 years of experience in developing and maintaining high-performance web applications and responsive websites. My expertise spans front-end technologies like ReactJS, JavaScript, HTML/CSS, Bootstrap, Tailwind, and back-end development with PHP and SQL. I have a strong background in both UI/UX design and optimizing system architecture, ensuring that every project I undertake reflects a high standard of creativity, attention to detail, and technical precision.
 
-Description: Developed a comprehensive school student portal featuring student information management, attendance tracking, and communication tools. Focused on creating a user-friendly interface and ensuring data security.
-Technologies Used: React, Node.js, CSS
-Role: Front-end Developer and UI/UX Designer. Collaborated with stakeholders to align the portal with the institution’s branding and usability standards.
-Challenges: Addressed mobile responsiveness and integrated secure login features to protect sensitive student data.
-E-Commerce Website
+In my career, I have worked extensively with design tools like Adobe XD, Illustrator, and Photoshop, creating visually appealing and brand-consistent designs that enhance user engagement. My experience includes working on diverse projects ranging from e-commerce platforms to complex human resource management systems. I have consistently adhered to brand guidelines, ensuring that all web components align with the corporate visual identity.
 
-Description: Designed and implemented a fully functional e-commerce platform with product browsing, shopping cart, and secure payment gateway integration. Enhanced user experience with a responsive design and fast load times.
-Technologies Used: Angular, Bootstrap, JavaScript
-Role: Full-stack Developer. Implemented complex features including advanced search functionality and personalized recommendations.
-Challenges: Optimized for high traffic and ensured compliance with security best practices for payment processing.
-Skills and Technologies
-HTML/CSS: Proficient in HTML5 and CSS3 with experience in using frameworks like Bootstrap and Tailwind CSS to create responsive and accessible designs.
-SASS/LESS: Utilized SASS for writing modular and maintainable CSS.
-JavaScript: Extensive experience with JavaScript ES6, ReactJS, and Angular for dynamic and interactive web applications.
-Git: Experienced with version control using Git for collaboration and code management.
-Squiz CMS: Developed and managed web content using Squiz CMS, enhancing website functionality and user experience.
-Funnelback Search: Configured and optimized search functionalities to improve site search relevance and performance.
-Design Software Proficiency
-Adobe XD: Designed interactive prototypes and wireframes to visualize and iterate on user interface designs.
-Adobe Illustrator: Created vector graphics for web assets, ensuring high-quality visual elements.
-Adobe Photoshop: Edited and optimized images for web use, maintaining visual consistency and branding.
-Brand Guidelines and Visual Identity
-In my previous roles, I consistently adhered to brand guidelines to ensure a cohesive visual identity across all digital platforms. For instance, in the School Student Portal project, I worked closely with the branding team to integrate their feedback into the design, aligning with the school's established visual identity. This involved ensuring that all design elements, from promo tags to skin variables, were consistent with the brand’s aesthetics.
+## Experience at OpenBet
 
-Contact
-For more details or if you have any questions, please contact me at your-email@example.com.
+At OpenBet, I played a key role in developing high-performance, customer-facing web applications for the sportsbook betting platform. My responsibilities included building custom components and enhancing the user interface using ReactJS, Redux-saga, and React Hooks. I focused on optimizing performance to handle high traffic volumes and conducted thorough browser-based debugging and performance testing. Additionally, I ensured our web app supported multilingual capabilities, allowing it to cater to a diverse user base. I collaborated closely with designers and back-end developers to create seamless and responsive user experiences, ensuring the platform was reliable, secure, and user-friendly across various devices.
+
+## Other Professional Experience
+
+Throughout my roles at ZeroSoft Technologies and Verticurl Marketing, I have collaborated closely with clients and cross-functional teams to deliver seamless user experiences, implement CI/CD pipelines, and conduct rigorous testing to maintain quality. My work is characterized by innovative problem-solving, effective communication, and a commitment to delivering results that meet or exceed client expectations.
+
+## Publicly Available Work
+
+Here are some examples of the projects I completed during my time at ZeroSoft Technologies and Verticurl Marketing:
+- [SG Home Tuitions](http://www.sghometuitions.com/)
+- [GK Vinayaka Vidyalaya](https://www.gkvinayakavidyalaya.com/)
+- [Mozcon](https://www.mozcon.ch/)
+- [Jiffy Lube](https://www.jiffylube.com/)
+- [HR Uniq App](https://www.app.hruniq.com/)
+- [Cutech Training](http://nskfix.com/dev/cutech_training/)
+- [Nigazhvu News](https://www.nigazhvunews.com/)
+- [Vrushainfotech](https://vrushainfotech.com/)
+
+## Screenshots
+
+I have also attached screenshots of some of the websites I developed:
+
+### OpenBet Product and Customer Sites
+- ![OpenBet Product](https://github.com/beulah-chandra-s/web/blob/main/OpenBet_Product.png)
+- ![BCLC](https://github.com/beulah-chandra-s/web/blob/main/BCLC.png)
+- ![Sazka](https://github.com/beulah-chandra-s/web/blob/main/Sazka.png)
+- ![NLO](https://github.com/beulah-chandra-s/web/blob/main/NLO.png)
+
+### Previous Projects from ZeroSoft Technologies and Verticurl Marketing
+- ![CEG](https://github.com/beulah-chandra-s/web/blob/main/ceg.jpg)
+- ![cJourney](https://github.com/beulah-chandra-s/web/blob/main/cJourney.jpg)
+- ![ACE Summer](https://github.com/beulah-chandra-s/web/blob/main/ACE_Summer.jpg)
+
+Due to confidentiality agreements and VPN restrictions, some of my recent projects are not publicly accessible. However, the provided screenshots and links offer a glimpse into the quality and scope of my work. I am eager to discuss my experience further during an interview.
